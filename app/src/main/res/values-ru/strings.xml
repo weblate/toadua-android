@@ -79,4 +79,13 @@
     <string name="relevance">Релевантность</string>
     <string name="filter_by_id">Фильтр по идентификатору</string>
     <string name="filter_by_arity">Фильтр по аргументированности</string>
+    <string name="edit_entry_error">Что-то пошло не так во время изменения записи</string>
+    <string name="comment_error">Что-то пошло не так, представив вашего комментария</string>
+    <string name="deleted_entry">Удалено «%s»</string>
+    <string name="out_of_date_description">Это приложение возможно уже устаревшее, и может больше не работать. Пожалуйста, проверьте свой магазин приложений для обновлений.</string>
+    <string name="search_error">Что-то пошло не так с вашим поисковым запросом</string>
+    <string name="recover_entry_error">Мы больше не можем восстановить эту запись</string>
+    <string name="delete_entry_error">Что-то пошло не так во время удаления записи</string>
+    <string name="create_entry_error">Что-то пошло не так во время создания записи</string>
+    <string name="vote_error">Что-то пошло не так во время подачи голосования</string>
 </resources>
